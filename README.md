@@ -1,2 +1,1 @@
-# Flare
-Creativity Unleashed into a single page
+Note: Use this source code when you get some issues or doubts.
